@@ -3,4 +3,4 @@
 1. Make it work
 2. Make it 3 different ways
 
-[Make it ](pic.png)
+![Make it work](pic.png)
